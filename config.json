@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervave",
+        "uuid": 1150128,
+        "checksum": "ak70k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
